@@ -8,5 +8,5 @@ Programming FPGA ( 10M50DAF484C7G )
 
 create clock and upload clock program
 - create helloworld_ucos2 program with Eclipse
-- change hello_world.c code to clock_v5.c
+- change hello_world.c code to latest code
 - run
